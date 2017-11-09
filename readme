@@ -1,0 +1,12 @@
+  798  cd .
+  799  cd ..
+  800  cd round1b
+  801  git init
+  802  git add .
+  803  git commit -m "first commit"
+  804  ls
+  805  ls -a
+  806  git remote add origin git@github.com:pnutbuttah123/round1b.git
+  807  git push -u origin master
+  808  touch readme
+  809  history
